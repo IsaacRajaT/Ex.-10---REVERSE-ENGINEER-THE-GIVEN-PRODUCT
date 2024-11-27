@@ -33,10 +33,13 @@
 ## Input:
 
 ### Output:
+![Screenshot (4)](https://github.com/user-attachments/assets/7a74c92d-5322-4661-9db6-229803b8656b)
 
 
-### Name:
-### Register Number:
+
+
+### Name:Isaac Raja T
+### Register Number:24900178
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
